@@ -1,3 +1,5 @@
+![Discord](https://discord.c99.nl/widget/theme-3/766811488547373056.png)
+
 - 👋 Hi, I’m @BF8-LEAKS
 - 👀 I’m interested in Leaks
 - 🌱 I’m currently learning node.js & discord bots
